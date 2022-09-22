@@ -1,0 +1,19 @@
+{
+  "name": "semaphore-demo-javascript-2",
+  "version": "1.0.0",
+  "description": "Test semaphore Node.js build",
+  "main": "./src/client/src/index.tsx ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staradayev/semaphore-demo-javascript-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staradayev/semaphore-demo-javascript-2/issues"
+  },
+  "homepage": "https://github.com/staradayev/semaphore-demo-javascript-2#readme"
+}
